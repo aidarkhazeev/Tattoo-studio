@@ -90,7 +90,7 @@
 		autoplayPauseOnHover: false,
 		autoplayCallback: function() {},
 		autoplayInitialDelay: 0,
-		enableDrag: false,
+		enableDrag: true,
 		dropDuration: 600,
 		dropEasing: "swing",
 		dropAnimateTo: "nearest",
